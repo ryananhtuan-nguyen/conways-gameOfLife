@@ -10,7 +10,7 @@ td {
   text-align: center;
 }
 .alive {
-  background-color: blue;
+  background-color: orange;
 }
 .dead {
   background-color: white;
